@@ -1,0 +1,9 @@
+*.csproj
+*.sln
+*.userprefs
+.vs/
+.vscode/
+/Library/*
+!/Library/LastBuild.buildreport
+/Temp/
+/obj/
