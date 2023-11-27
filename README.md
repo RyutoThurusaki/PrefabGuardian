@@ -1,7 +1,7 @@
 # PrefabGuardian
 
 # 使い方
-まだ整えられてないのでGITURLとかもないです。  
+まだ整えられてないのでGitURLとかもないです。  
 Assets/PrefabGuardianを適当にDLしてインポートしてください。    
   
 Tools/PrefabGuardian/Settingsとツールバーを進むと、設定用のウィンドウがあるので、守りたいPrefabとそれの管理者名をセットしていってください。  
